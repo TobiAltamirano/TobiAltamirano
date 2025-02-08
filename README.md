@@ -9,7 +9,7 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">I am a full-stack web developer with more hours of coding (and frustrations) than I can count, which officially makes me a professional. 🚀 <br>I’m passionate about turning designs into experiences and ideas into code. Because, remember:</span></p>
+<p align="left">I´m a full-stack web developer with more hours of coding (and frustrations) than I can count, which officially makes me a professional. 🚀 <br>I’m passionate about turning designs into experiences and ideas into code. Because, remember:</span></p>
 <h2 align="center">If it can be imagined, it can be programmed. 😉</h2>
 
 <!--horizontal divider(gradiant)-->
