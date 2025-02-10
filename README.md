@@ -22,7 +22,7 @@
     <li>👨🏻‍💻 <strong>Full-stack developer</strong> & <strong>product designer</strong>, passionate about turning ideas into seamless digital experiences.</li>
     <li>🎨 <strong>UX/UI enthusiast</strong>, ensuring intuitive design and smooth user interactions.</li>
     <li>🤝 I’m available for <strong>freelancing</strong>.</li>
-    <li>🔎 Check out my <strong>portfolio</strong> to learn more about my work <br> and projects: <a href="https://mazarafa.github.io/">.</li>
+    <li>🔎 Check out my <strong>portfolio</strong> to learn more about my work <br> and projects: <a href="https://www.tobiasaltamirano.com.ar/">.</li>
     <li>🎯 Focused on: <strong>Frontend & backend development,<br> API integrations, and product strategy.</strong></li>
     <li>📂 <strong>Open to collaborations</strong>—let’s build something together!</li>
 </ul>
